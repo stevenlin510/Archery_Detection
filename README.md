@@ -1,11 +1,11 @@
-#HW1 ANCHERY DETECTION
+# HW1 ANCHERY DETECTION
 
 #### Introduction 
 
 There are three different ways to accomplish this project.
 Please install opencv in advanced.
 
-####Usage
+#### Usage
 1. First one is **Color-base** approach. The output video will be in _.output/color-based_ folder
 
 '''shell
@@ -22,5 +22,5 @@ Please install opencv in advanced.
 	python own_solved.py -p <video_name>.mp4
 '''
 (own_solved.jpg)
-####Conclusion
+#### Conclusion
 The results from my own approach can almost detect the countour of yellow, but the blue part of the anchery cannot work out. I suspect that one of the problem is maybe the hand holding on the anchery makes my algorithm more difficult to detect as a circle. 
