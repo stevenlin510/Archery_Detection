@@ -1,4 +1,4 @@
-# HW1 ANCHERY DETECTION
+# HW1 ARCHERY DETECTION
 
 #### Introduction 
 
